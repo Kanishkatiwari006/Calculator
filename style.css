@@ -1,0 +1,49 @@
+.container{
+    text-align: center;
+}
+
+h1{
+    color: black;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table{
+    margin:auto;
+}
+
+input{
+    border-radius: 25px;
+    font-size: 34px;
+    border: 5px solid black;
+    height: 65px;
+    width: 455px;
+}
+
+.calculator{
+    border: 4px solid rgb(5, 1, 8);
+    background-color: rgb(101, 113, 113);
+    padding: 15px;
+    border-radius: 53px;
+    display: inline-block;
+}
+
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    color: white;
+    background-color: rgb(34, 33, 31);
+    width: 102px;
+    height: 60px;
+    margin: 6px;
+    height: 90px;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: rgb(105, 95, 95);
+}
+
+body{
+    background: url("https://cdn.mwallpapers.com/photos/celebrities/hd-wallpapers/study-ballpen-pen-page-close-up-depth-of-field-person-handwritten-hand-blur-android-iphone-hd-wallpaper-background-downloadhd-wallpapers-desktop-background-android-iphone-1080p-4k-1a5nn.jpg") no-repeat center;
+    background-size: cover;
+}
